@@ -1,0 +1,15 @@
+---
+title: 三分钟搭建一个ChatGPT网页服务
+author: 不烦
+date: 2023-05-23 21:08:58
+tags: ChatGPT
+categories: ChatGPT
+seo_title: ChatGPT网页服务搭建
+description: ChatGPT网页服务快速搭建
+pin: false
+#headimg: https://mdservice.oss-cn-beijing.aliyuncs.com/mdservice/202304250049335.jpg
+icons: [fas fa-fire red, fas fa-fire red, fas fa-fire red, fas fa-fire red, fas fa-fire red]
+#cover: true
+sidebar: [grid, toc, tags] # 放置任何你想要显示的侧边栏部件
+readmore: false
+---
